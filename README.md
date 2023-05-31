@@ -4,6 +4,8 @@
 <a href="emilvinod@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="">
 </p>
+<details>  
+<summary>P</summary>  
 <p>
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
 <a href="https://www.linkedin.com/in/emil-vinod-03a743278/"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
@@ -54,3 +56,4 @@
 <img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white" alt="">  
 </p>
+</details>  
