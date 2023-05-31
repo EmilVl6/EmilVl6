@@ -5,7 +5,10 @@
 <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="">
 </p>
 <details>  
-<summary>P</summary>  
+<summary>Utility</summary>  
+</p>
+  
+<p>  
 <p>
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
 <a href="https://www.linkedin.com/in/emil-vinod-03a743278/"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
