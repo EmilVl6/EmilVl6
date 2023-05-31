@@ -1,6 +1,11 @@
 ### Hey there, I'm Emil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 <p>
 <a href="https://www.linkedin.com/in/emil-vinod-03a743278/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="emilvinod@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="">      
+</p>
+<p>
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
 <a href="https://www.linkedin.com/in/emil-vinod-03a743278/"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
 </a>
@@ -37,7 +42,4 @@
 <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=flat&logo=google%20chrome&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white" alt="">  
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="">    
 </p>
