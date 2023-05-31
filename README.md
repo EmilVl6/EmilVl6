@@ -37,35 +37,7 @@
 <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="">  
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">    
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">  
-<img src="" alt="">  
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">  
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">    
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">  
-<img src="" alt="">  
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">  
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">    
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="">    
 </p>
-
-
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
