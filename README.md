@@ -51,8 +51,7 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="">  
 </p>
-<p>
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="">  
+<p> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=flat&logo=google%20chrome&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white" alt="">
